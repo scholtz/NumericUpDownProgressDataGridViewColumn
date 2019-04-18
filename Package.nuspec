@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>NumericUpDownProgressDataGridViewColumn</id>
+        <version>1.0.0-stable</version>
+        <title>Numeric Up Down Progress Column for DataGridView</title>
+        <authors>ludovit __at__ scholtz.sk</authors>
+        <owners>ludovit __at__ scholtz.sk</owners>
+        <projectUrl>https://github.com/scholtz/NumericUpDownProgressDataGridViewColumn/</projectUrl>
+        <license type="expression">LGPL-3.0-or-later</license>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A Numeric Up Down Column with Progress view for WinForms DataGridView</description>
+        <copyright>Copyright 2019</copyright>
+        <tags>NumericUpDown Progress DataGridView</tags>
+    </metadata>
+    <files>
+        <file src="build\**" target="build" />
+    </files>
+</package>
